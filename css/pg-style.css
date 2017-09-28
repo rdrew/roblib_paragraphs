@@ -1,0 +1,19 @@
+input.button-add {
+  height: 32px;
+  padding-left: 36px !important;
+  padding-right: 10px !important;
+  border: 1px solid #000000;
+  background: #ff9900 url("http://placehold.it/16x16") no-repeat 10px center;
+  cursor: pointer;
+}
+#edit-field-page-components-und-add-more-add-more-bundle-text-block-with-embedded-image {
+
+  height: 32px;
+  padding-left: 36px !important;
+  padding-right: 10px !important;
+  border: 1px solid #000000;
+  /*background: #ff9900 url("http://placehold.it/16x16") no-repeat 10px center;*/
+  background: #ff9900 url("icons/text-block.svg") no-repeat 10px center;
+  background-size: 16px;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the roblib_paragraphs feature.
+ */
+
+include_once 'roblib_paragraphs.features.inc';
