@@ -3,8 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="2048px" height="1792px" viewBox="0 0 2048 1792" enable-background="new 0 0 2048 1792" xml:space="preserve">
-<path d="M868.106,636.531H370.47v409.926h497.636V636.531z M1033.984,499.889v683.209H204.591V499.889H1033.984z M1863.379,1046.457
-	V1183.1h-663.516v-136.643H1863.379z M1863.379,773.173v136.643h-663.516V773.173H1863.379z M1863.379,499.889v136.642h-663.516
-	V499.889H1863.379z"/>
-<rect x="86.006" y="390.453" fill="none" stroke="#000000" stroke-width="56.0243" stroke-miterlimit="10" width="1874.404" height="910.902"/>
+<path fill="#333333" d="M868.106,636.531H370.47v409.926h497.635L868.106,636.531L868.106,636.531z M1033.984,499.889v683.209
+	H204.591V499.889H1033.984z M1863.379,1046.457V1183.1h-663.516v-136.643H1863.379z M1863.379,773.173v136.644h-663.516V773.173
+	H1863.379z M1863.379,499.889v136.643h-663.516V499.889H1863.379z"/>
+<rect x="86.006" y="390.453" fill="none" stroke="#333333" stroke-width="56.0243" stroke-miterlimit="10" width="1874.404" height="910.902"/>
 </svg>

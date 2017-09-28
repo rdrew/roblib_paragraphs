@@ -3,8 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="2048px" height="1792px" viewBox="0 0 2048 1792" enable-background="new 0 0 2048 1792" xml:space="preserve">
-<path d="M838.6,399.338H305.65v439.016H838.6V399.338z M1016.25,253v731.692H128V253H1016.25z M1904.5,1131.031v146.338H128
-	v-146.338H1904.5z M1904.5,838.354v146.34h-710.6v-146.34H1904.5z M1904.5,545.677v146.339h-710.6V545.677H1904.5z M1904.5,253
-	v146.338h-710.6V253H1904.5z"/>
-<rect x="128" y="1406.162" width="1776.5" height="146.338"/>
+<path fill="#333333" d="M838.6,399.338H305.65v439.016H838.6V399.338z M1016.25,253v731.692H128V253H1016.25z M1904.5,1131.031
+	v146.338H128v-146.338H1904.5z M1904.5,838.354v146.341h-710.6V838.354H1904.5z M1904.5,545.677v146.339h-710.6V545.677H1904.5z
+	 M1904.5,253v146.338h-710.6V253H1904.5z"/>
+<rect x="128" y="1406.162" fill="#333333" width="1776.5" height="146.338"/>
 </svg>
