@@ -173,6 +173,25 @@ function roblib_paragraphs_field_default_field_bases() {
     'type' => 'paragraphs',
   );
 
+  // Exported field_base: 'field_pg_basic_text_block'.
+  $field_bases['field_pg_basic_text_block'] = array(
+    'active' => 1,
+    'cardinality' => 1,
+    'deleted' => 0,
+    'entity_types' => array(),
+    'field_name' => 'field_pg_basic_text_block',
+    'indexes' => array(
+      'format' => array(
+        0 => 'format',
+      ),
+    ),
+    'locked' => 0,
+    'module' => 'text',
+    'settings' => array(),
+    'translatable' => 0,
+    'type' => 'text_long',
+  );
+
   // Exported field_base: 'field_pg_inline_text_image__cap'.
   $field_bases['field_pg_inline_text_image__cap'] = array(
     'active' => 1,

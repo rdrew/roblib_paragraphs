@@ -64,6 +64,11 @@ function roblib_paragraphs_node_info() {
  */
 function roblib_paragraphs_paragraphs_info() {
   $items = array(
+    'basic_text_block' => array(
+      'name' => 'Basic Text Block',
+      'bundle' => 'basic_text_block',
+      'locked' => '1',
+    ),
     'media_object' => array(
       'name' => 'Media Object',
       'bundle' => 'media_object',

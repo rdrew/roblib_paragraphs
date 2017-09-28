@@ -58,6 +58,8 @@ function roblib_paragraphs_field_group_info() {
     'children' => array(
       0 => 'field_pg_inline_text_image__img',
       1 => 'field_pg_inline_text_image__cap',
+      2 => 'field_pg_inline_text_image__size',
+      3 => 'field_pg_inline_text_image__pos',
     ),
     'format_type' => 'fieldset',
     'format_settings' => array(
