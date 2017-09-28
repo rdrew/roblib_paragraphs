@@ -1,0 +1,27 @@
+#basic-page-paragraphs-node-form #edit-field-page-components-und-add-more input[type="submit"] {
+    height: 32px;
+    padding-right: 10px ;
+    cursor: pointer;
+    background-position-x: 12px;
+    background-position-y: center;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: #eeeeee;
+    background-size: 30px;
+    padding-left: 48px ;
+}
+#edit-field-page-components-und-add-more-add-more-bundle-text-block-with-embedded-image {
+    background-image: url(../icons/embedded-image.svg);
+}
+#edit-field-page-components-und-add-more-add-more-bundle-media-object {
+    background-image: url(../icons/featured-image.svg);
+}
+#edit-field-page-components-und-add-more-add-more-bundle-basic-text-block {
+    background-image: url(../icons/text-block.svg);
+    background-size: 22px !important;
+    padding-left: 42px !important ;
+}
+
